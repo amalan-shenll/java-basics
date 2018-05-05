@@ -6,3 +6,9 @@
 
 2) install netbeans(i used netbeans 8.2)
 
+git clone https://github.com/amalan-shenll/java-basics.git
+
+open project via netbeans
+
+right click on file and give 'Run File'
+
